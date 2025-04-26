@@ -1,5 +1,4 @@
 Lomakylä Rakkaranta Resort 🏖️
-
 A demo website built for Lomakylä Rakkaranta Resort, showcasing a smooth, virtualized, and modern web experience.
 
 🚀 Tech Stack
@@ -32,7 +31,8 @@ Run the development server:
 bash
 Copy code
 npm run dev
-Visit http://localhost:5173 in your browser to see the app.
+Then open your browser and visit:
+http://localhost:5173
 
 📜 About
 This project was created as a demo for the Lomakylä Rakkaranta Resort website.
@@ -42,4 +42,4 @@ Fast performance through virtualization techniques
 
 Smooth scrolling experience
 
-Modern UI design principlescd
+Modern UI design principles
